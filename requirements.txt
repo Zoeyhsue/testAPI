@@ -1,0 +1,15 @@
+DateTime~=4.7
+matplotlib~=3.6.0
+uvicorn~=0.11.5
+fastapi~=0.58.1
+prophet~=1.1.1
+python-dateutil~=2.8.2
+numpy~=1.23.2
+statsmodels~=0.13.2
+pandas~=1.5.0
+sklearn~=0.0
+scikit-learn~=1.1.2
+patsy~=0.5.2
+pyqt5~=5.15.7
+pandas_datareader~=0.10.0
+python-dateutil~=2.8.2
