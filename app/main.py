@@ -20,7 +20,7 @@ app = FastAPI(
 )
 
 
-@app.post(path="/product",
+@app.get(path="/product",
           tags=['market product'])
 
 async def product(name: str = '^DJI'):
